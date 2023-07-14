@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ES6",
+            "DOM"
+        ],
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "downlevelIteration": true
+    }
+}
